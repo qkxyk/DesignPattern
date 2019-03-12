@@ -1,0 +1,7 @@
+D:\Git\DesignPattern\AutoProject\bin\Debug\AutoProject.exe.config
+D:\Git\DesignPattern\AutoProject\bin\Debug\AutoProject.exe
+D:\Git\DesignPattern\AutoProject\bin\Debug\AutoProject.pdb
+D:\Git\DesignPattern\AutoProject\obj\Debug\AutoProject.csprojAssemblyReference.cache
+D:\Git\DesignPattern\AutoProject\obj\Debug\AutoProject.csproj.CoreCompileInputs.cache
+D:\Git\DesignPattern\AutoProject\obj\Debug\AutoProject.exe
+D:\Git\DesignPattern\AutoProject\obj\Debug\AutoProject.pdb

@@ -1,0 +1,7 @@
+D:\Git\DesignPattern\CarProject\bin\Debug\CarProject.exe.config
+D:\Git\DesignPattern\CarProject\bin\Debug\CarProject.exe
+D:\Git\DesignPattern\CarProject\bin\Debug\CarProject.pdb
+D:\Git\DesignPattern\CarProject\obj\Debug\CarProject.csprojAssemblyReference.cache
+D:\Git\DesignPattern\CarProject\obj\Debug\CarProject.csproj.CoreCompileInputs.cache
+D:\Git\DesignPattern\CarProject\obj\Debug\CarProject.exe
+D:\Git\DesignPattern\CarProject\obj\Debug\CarProject.pdb
