@@ -1,8 +1,8 @@
-/CalculateProject/bin
-/CalculateProject/obj
-/AutoProject/bin
-/AutoProject/obj
-/CarProject/bin
-/CarProject/obj
-/.vs
-test.txt
+/CalculateProject/bin/
+/CalculateProject/obj/
+/AutoProject/bin/
+/AutoProject/obj/
+/CarProject/bin/
+/CarProject/obj/
+/.vs/
+/CalculateProject/test.txt
